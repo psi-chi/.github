@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Guide
 
 First off, thank you for considering contributing. It's people like you that make open-source projects possible.
 
@@ -42,4 +42,4 @@ While committing, make sure to follow these guidelines:
 
 - Capitalize only the first alphabet of the commit.
 - Start the commit with `Add` for new features, `Change` for changes in existing functionality, `Remove` for now removed features, and `Fix` for any bug fixes.
-- Add a brief description, if required.
+- If necessary, add a brief description.
